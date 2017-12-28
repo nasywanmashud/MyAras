@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-117:12
+ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-118:12
+INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-118:12
+INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-118:12
+INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-118:12
 MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Aban\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\0e90a4b1d5441d6fbcaa13e256489386\AndroidManifest.xml:2:1-15:12
 MERGED from [com.github.f0ris.sweetalert:library:1.5.1] C:\Users\Aban\.gradle\caches\transforms-1\files-1.1\library-1.5.1.aar\07149a8bcd2c80648b6fa0b7762370d1\AndroidManifest.xml:2:1-13:12
 MERGED from [com.jaredrummler:material-spinner:1.2.2] C:\Users\Aban\.gradle\caches\transforms-1\files-1.1\material-spinner-1.2.2.aar\0d3a2c9850837a4ecc0e58726b9ab8c2\AndroidManifest.xml:2:1-10:12
@@ -81,22 +81,22 @@ MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Aban\.gradl
 MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Aban\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\4e07426af72e892e8cd7ab85495bcd17\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Aban\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\cb858ef52fd80bcb32b351e77f6b0345\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Aban\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\33cf7e6e9013de5c82d425e47c115d74\AndroidManifest.xml:17:1-30:12
-INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-117:12
+INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-118:12
+INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-118:12
+INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-118:12
 	package
 		ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:4:5-31
 		INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml
 		INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml
-		ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-117:12
+		ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-118:12
 		INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml
-		ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-117:12
+		ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:1-118:12
 		INJECTED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:2:11-69
@@ -450,7 +450,7 @@ ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:81:5-80
 	android:name
 		ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:81:22-77
 application
-ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:83:5-115:19
+ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:83:5-116:19
 MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Aban\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\0e90a4b1d5441d6fbcaa13e256489386\AndroidManifest.xml:13:5-20
 MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Aban\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\0e90a4b1d5441d6fbcaa13e256489386\AndroidManifest.xml:13:5-20
 MERGED from [com.github.f0ris.sweetalert:library:1.5.1] C:\Users\Aban\.gradle\caches\transforms-1\files-1.1\library-1.5.1.aar\07149a8bcd2c80648b6fa0b7762370d1\AndroidManifest.xml:11:5-20
@@ -608,6 +608,10 @@ activity#com.intranet.app.ui.Activity.Daftar.DaftarActivity
 ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:111:9-71
 	android:name
 		ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:111:19-68
+activity#com.intranet.app.ui.Activity.DetailNota.DetailNotaActivity
+ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:112:9-79
+	android:name
+		ADDED from E:\git\MyAras\open_project\src\main\AndroidManifest.xml:112:19-76
 uses-feature#0x00020000
 ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Aban\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\e5ac34bcfff153d579689066c97d2cd3\AndroidManifest.xml:21:5-77
 	android:glEsVersion

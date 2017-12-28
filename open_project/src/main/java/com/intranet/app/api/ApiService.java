@@ -1,9 +1,11 @@
 package com.intranet.app.api;
 
 import com.intranet.app.ui.Model.Receive.DaftarReceive;
+import com.intranet.app.ui.Model.Receive.DetailNotaReceive;
 import com.intranet.app.ui.Model.Receive.LoginReceive;
 import com.intranet.app.ui.Model.Receive.NotaReceive;
 import com.intranet.app.ui.Model.Request.DaftarRequest;
+import com.intranet.app.ui.Model.Request.DetailNotaRequest;
 import com.intranet.app.ui.Model.Request.LoginRequest;
 import com.intranet.app.ui.Model.Request.NotaRequest;
 
@@ -25,6 +27,10 @@ public interface  ApiService {
     //daftar
     @POST("/test/Laravel/public/daftar")
     void onRequestToDaftar(@Body DaftarRequest task, Callback<DaftarReceive> callback);
+
+    //daftar
+    @POST("/test/Laravel/public/detail_nota")
+    void onRequestToDetailNota(@Body DetailNotaRequest task, Callback<DetailNotaReceive> callback);
 
 
 }

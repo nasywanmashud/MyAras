@@ -6,7 +6,6 @@ package com.intranet.app.ui.Model.Request;
 public class LoginRequest {
 
     /*Local Data Send To Server*/
-    String username;
     String no_matrik;
 
     public String getNo_matrik() {

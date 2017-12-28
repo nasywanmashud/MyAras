@@ -1,6 +1,45 @@
 {
     "logs": [
         {
+            "outputFile": "E:\\git\\MyAras\\open_project\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.5.0.aar\\ffd10b6987f61978274248cf8c60958e\\res\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,161,223,274,325,379,433,494,546",
+                        "endColumns": "51,53,61,50,50,53,53,60,51,61",
+                        "endOffsets": "102,156,218,269,320,374,428,489,541,603"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "349,401,455,517,568,619,673,727,788,840",
+                        "endColumns": "51,53,61,50,50,53,53,60,51,61",
+                        "endOffsets": "396,450,512,563,614,668,722,783,835,897"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.0.2.aar\\362e03f80a210315b89728b68cc0562c\\res\\values-sw600dp-land\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "216,264,314,372,419,466,516,566,623",
+                        "endColumns": "46,48,56,45,45,48,48,55,46",
+                        "endOffsets": "258,308,366,413,460,510,560,617,665"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,151,208,254,300,902,951,1007",
+                        "endColumns": "46,48,56,45,45,48,48,55,46",
+                        "endOffsets": "97,146,203,249,295,344,946,1002,1049"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "E:\\git\\makmalkawalproses\\open_project\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
             "map": [
                 {

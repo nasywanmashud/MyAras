@@ -31,6 +31,38 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "E:\\git\\MyAras\\open_project\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-w270dp-h560dp-v13\\values-w270dp-h560dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.5.0.aar\\ffd10b6987f61978274248cf8c60958e\\res\\values-w270dp-h560dp-v13\\values-w270dp-h560dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,124,184,242,303",
+                        "endColumns": "68,59,57,60,59",
+                        "endOffsets": "119,179,237,298,358"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.0.2.aar\\362e03f80a210315b89728b68cc0562c\\res\\values-w270dp-h560dp\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "217,282,338,395",
+                        "endColumns": "63,54,55,54",
+                        "endOffsets": "276,332,389,445"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "363,427,482,538",
+                        "endColumns": "63,54,55,54",
+                        "endOffsets": "422,477,533,588"
+                    }
+                }
+            ]
         }
     ]
 }

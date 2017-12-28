@@ -6,6 +6,7 @@ import com.intranet.app.api.ApiService;
 import com.intranet.app.dagger.module.NetModule;
 import com.intranet.app.dagger.module.PresenterModule;
 import com.intranet.app.ui.Activity.Daftar.DaftarFragment;
+import com.intranet.app.ui.Activity.DetailNota.DetailNotaFragment;
 import com.intranet.app.ui.Activity.HomePage.HomePageFragment;
 import com.intranet.app.ui.Activity.Login.LoginFragment;
 
@@ -33,6 +34,7 @@ public interface AppComponent {
     void inject(HomePageFragment homePageFragment);
     void inject(NotaFragment notaFragment);
     void inject(DaftarFragment daftarFragment);
+    void inject(DetailNotaFragment detailNotaFragment);
 
 
 

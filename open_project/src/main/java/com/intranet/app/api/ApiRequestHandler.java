@@ -7,9 +7,11 @@ import com.intranet.app.MainFragmentActivity;
 import com.intranet.app.application.MainApplication;
 import com.intranet.app.base.BaseFragment;
 import com.intranet.app.ui.Model.Receive.DaftarReceive;
+import com.intranet.app.ui.Model.Receive.DetailNotaReceive;
 import com.intranet.app.ui.Model.Receive.LoginReceive;
 import com.intranet.app.ui.Model.Receive.NotaReceive;
 import com.intranet.app.ui.Model.Request.DaftarRequest;
+import com.intranet.app.ui.Model.Request.DetailNotaRequest;
 import com.intranet.app.ui.Model.Request.LoginRequest;
 import com.intranet.app.ui.Model.Request.NotaRequest;
 import com.squareup.otto.Bus;
@@ -98,6 +100,33 @@ public class ApiRequestHandler {
 
                 if (rhymesResponse != null) {
                     bus.post(new DaftarReceive(rhymesResponse));
+                    //RealmObjectController.cachedResult(MainFragmentActivity.getContext(), (new Gson()).toJson(rhymesResponse), "UserLogin");
+                } else {
+                    BaseFragment.setAlertNotification(MainFragmentActivity.getContext());
+                    Log.e("error", "pape");
+                }
+            }
+
+            @Override
+            public void failure(RetrofitError error) {
+                BaseFragment.setAlertNotification(MainFragmentActivity.getContext());
+                //  Log.e("error", "pape2");
+
+            }
+
+        });
+    }
+
+    @Subscribe
+    public void onDetailNotaRequest(final DetailNotaRequest event) {
+
+        apiService.onRequestToDetailNota(event, new Callback<DetailNotaReceive>() {
+
+            @Override
+            public void success(DetailNotaReceive rhymesResponse, Response response) {
+
+                if (rhymesResponse != null) {
+                    bus.post(new DetailNotaReceive(rhymesResponse));
                     //RealmObjectController.cachedResult(MainFragmentActivity.getContext(), (new Gson()).toJson(rhymesResponse), "UserLogin");
                 } else {
                     BaseFragment.setAlertNotification(MainFragmentActivity.getContext());

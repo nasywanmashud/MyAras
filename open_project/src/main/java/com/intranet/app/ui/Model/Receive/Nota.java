@@ -9,6 +9,15 @@ public class Nota {
 
     String Tajuk;
     String Content;
+    String Id;
+
+    public String getId() {
+        return Id;
+    }
+
+    public void setId(String id) {
+        Id = id;
+    }
 
     public String getTajuk() {
         return Tajuk;

@@ -95,6 +95,7 @@
         android:largeHeap="true"
         android:launchMode="singleTop"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/MyCustomTheme"
         android:vmSafeMode="true" >
         <activity
@@ -113,6 +114,7 @@
         <activity android:name="com.intranet.app.ui.Activity.Nota.NotaActivity" />
         <activity android:name="com.intranet.app.ui.Activity.HomePage.HomePageActivity" />
         <activity android:name="com.intranet.app.ui.Activity.Daftar.DaftarActivity" />
+        <activity android:name="com.intranet.app.ui.Activity.DetailNota.DetailNotaActivity" />
 
         <!--
          FirebaseMessagingService performs security checks at runtime,

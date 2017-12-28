@@ -1,5 +1,6 @@
 package com.intranet.app.ui.Activity.Nota;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
@@ -7,6 +8,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ListView;
 
 import com.google.gson.Gson;
@@ -14,6 +16,7 @@ import com.intranet.app.MainFragmentActivity;
 import com.intranet.app.R;
 import com.intranet.app.application.MainApplication;
 import com.intranet.app.base.BaseFragment;
+import com.intranet.app.ui.Activity.DetailNota.DetailNotaActivity;
 import com.intranet.app.ui.Model.Receive.LoginReceive;
 import com.intranet.app.ui.Model.Receive.Nota;
 import com.intranet.app.ui.Model.Receive.NotaReceive;
@@ -99,12 +102,11 @@ public class NotaFragment extends BaseFragment  {
         Log.e("test", String.valueOf(stringObject));
 
         Gson gson = new Gson();
-        NotaReceive obj = gson.fromJson(sobject , NotaReceive.class);
+        final NotaReceive obj = gson.fromJson(sobject , NotaReceive.class);
 
 
             for (int v = 0 ; v < obj.getNota().size(); v++) {
 
-                //Log.e("jayee", obj.getDetails().get(v).getTitle());
 
                 Nota nota = new Nota();
                 nota.setTajuk(obj.getNota().get(v).getTajuk());
@@ -115,17 +117,16 @@ public class NotaFragment extends BaseFragment  {
 
                 listView.setAdapter(adapter);
 
-//                lvNews.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-//                    @Override
-//                    public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
-//
-//                        pref.setContentrefid(obj.getDetails().get(position).getContentRefId());
-//                        Intent in = new Intent(getActivity(), DataNewsActivity.class);
-//
-//                        startActivity(in);
-//
-//                    }
-//                });
+                listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                    @Override
+                    public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
+
+                        Intent in = new Intent(getActivity(), DetailNotaActivity.class);
+                        in.putExtra("id",obj.getNota().get(position).getId());
+                        startActivity(in);
+
+                    }
+                });
             }
 
 

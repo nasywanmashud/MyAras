@@ -6,6 +6,7 @@ import com.intranet.app.api.ApiRequestHandler;
 import com.intranet.app.application.MainApplication;
 
 import com.intranet.app.ui.Model.Request.DaftarRequest;
+import com.intranet.app.ui.Model.Request.DetailNotaRequest;
 import com.intranet.app.ui.Model.Request.LoginRequest;
 import com.intranet.app.ui.Model.Request.NotaRequest;
 import com.squareup.otto.Bus;
@@ -44,6 +45,9 @@ public class Presenter {
         apiRequestHandler.onNotaRequest(data);
     }
 
+    public void onDetailNota(DetailNotaRequest data) {
+        apiRequestHandler.onDetailNotaRequest(data);
+    }
 
 
 }

@@ -16,6 +16,8 @@ import com.intranet.app.dagger.module.PresenterModule;
 import com.intranet.app.dagger.module.PresenterModule_ProvideLoginPresenterFactory;
 import com.intranet.app.ui.Activity.Daftar.DaftarFragment;
 import com.intranet.app.ui.Activity.Daftar.DaftarFragment_MembersInjector;
+import com.intranet.app.ui.Activity.DetailNota.DetailNotaFragment;
+import com.intranet.app.ui.Activity.DetailNota.DetailNotaFragment_MembersInjector;
 import com.intranet.app.ui.Activity.HomePage.HomePageFragment;
 import com.intranet.app.ui.Activity.HomePage.HomePageFragment_MembersInjector;
 import com.intranet.app.ui.Activity.Login.LoginFragment;
@@ -63,6 +65,8 @@ public final class DaggerAppComponent implements AppComponent {
   private MembersInjector<NotaFragment> notaFragmentMembersInjector;
 
   private MembersInjector<DaftarFragment> daftarFragmentMembersInjector;
+
+  private MembersInjector<DetailNotaFragment> detailNotaFragmentMembersInjector;
 
   private DaggerAppComponent(Builder builder) {
     assert builder != null;
@@ -118,6 +122,10 @@ public final class DaggerAppComponent implements AppComponent {
 
     this.daftarFragmentMembersInjector =
         DaftarFragment_MembersInjector.create(provideLoginPresenterProvider, provideBusProvider);
+
+    this.detailNotaFragmentMembersInjector =
+        DetailNotaFragment_MembersInjector.create(
+            provideLoginPresenterProvider, provideBusProvider);
   }
 
   @Override
@@ -158,6 +166,11 @@ public final class DaggerAppComponent implements AppComponent {
   @Override
   public void inject(DaftarFragment daftarFragment) {
     daftarFragmentMembersInjector.injectMembers(daftarFragment);
+  }
+
+  @Override
+  public void inject(DetailNotaFragment detailNotaFragment) {
+    detailNotaFragmentMembersInjector.injectMembers(detailNotaFragment);
   }
 
   public static final class Builder {
