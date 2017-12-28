@@ -1,0 +1,128 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\git\\makmalkawalproses\\open_project\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\mixpanel-android-4.9.8.aar\\008e40f4ff0c1437fdfe6e2495b3ae47\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "591"
+                    },
+                    "to": {
+                        "startLines": "24",
+                        "startColumns": "4",
+                        "startOffsets": "1468",
+                        "endLines": "31",
+                        "endColumns": "12",
+                        "endOffsets": "2004"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\Custom-Calendar-View-v1.0.aar\\bad9f525f627effda49c77f6f51eefd3\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "139",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "285"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\6f0ba70e5fa79979e83c27e299059f7f\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895",
+                        "endLines": "6,7,8,14,20",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "326,397,480,890,1312"
+                    },
+                    "to": {
+                        "startLines": "5,10,11,12,18",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "206,482,553,636,1046",
+                        "endLines": "9,10,11,17,23",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "477,548,631,1041,1463"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\git\\MyAras\\open_project\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\mixpanel-android-4.9.8.aar\\008e40f4ff0c1437fdfe6e2495b3ae47\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "591"
+                    },
+                    "to": {
+                        "startLines": "24",
+                        "startColumns": "4",
+                        "startOffsets": "1468",
+                        "endLines": "31",
+                        "endColumns": "12",
+                        "endOffsets": "2004"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\Custom-Calendar-View-v1.0.aar\\bad9f525f627effda49c77f6f51eefd3\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "139",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "285"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\6f0ba70e5fa79979e83c27e299059f7f\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895",
+                        "endLines": "6,7,8,14,20",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "326,397,480,890,1312"
+                    },
+                    "to": {
+                        "startLines": "5,10,11,12,18",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "206,482,553,636,1046",
+                        "endLines": "9,10,11,17,23",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "477,548,631,1041,1463"
+                    }
+                }
+            ]
+        }
+    ]
+}

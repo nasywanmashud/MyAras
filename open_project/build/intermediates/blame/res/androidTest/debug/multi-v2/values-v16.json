@@ -1,0 +1,76 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\git\\makmalkawalproses\\open_project\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\cb858ef52fd80bcb32b351e77f6b0345\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.0.2.aar\\362e03f80a210315b89728b68cc0562c\\res\\values-v16\\values.xml",
+                    "from": {
+                        "startLines": "6,10,14,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "208,430,563,682",
+                        "endLines": "6,12,16,20",
+                        "endColumns": "71,12,12,12",
+                        "endOffsets": "275,555,674,791"
+                    },
+                    "to": {
+                        "startLines": "3,9,12,24",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "121,464,592,1075",
+                        "endLines": "3,11,14,26",
+                        "endColumns": "71,12,12,12",
+                        "endOffsets": "188,587,701,1182"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\6f0ba70e5fa79979e83c27e299059f7f\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "459"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.5.0.aar\\ffd10b6987f61978274248cf8c60958e\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2,3,6,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,286,405",
+                        "endLines": "2,5,8,11",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "148,281,400,517"
+                    },
+                    "to": {
+                        "startLines": "4,15,18,21",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "193,706,839,958",
+                        "endLines": "4,17,20,23",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "286,834,953,1070"
+                    }
+                }
+            ]
+        }
+    ]
+}

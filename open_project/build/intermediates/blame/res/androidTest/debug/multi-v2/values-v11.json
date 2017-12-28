@@ -1,0 +1,102 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\git\\makmalkawalproses\\open_project\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\0e90a4b1d5441d6fbcaa13e256489386\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1044",
+                        "endLines": "18,35",
+                        "endColumns": "10,10",
+                        "endOffsets": "1039,2010"
+                    },
+                    "to": {
+                        "startLines": "84,101",
+                        "startColumns": "4,4",
+                        "startOffsets": "5822,6811",
+                        "endLines": "100,117",
+                        "endColumns": "10,10",
+                        "endOffsets": "6806,7777"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\snackbar-2.7.5.aar\\1837aaf8ab0937cd99c1f53cfcc856b6\\res\\values-v11\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "165",
+                        "endColumns": "45",
+                        "endOffsets": "206"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\mixpanel-android-4.9.8.aar\\008e40f4ff0c1437fdfe6e2495b3ae47\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "582"
+                    },
+                    "to": {
+                        "startLines": "230",
+                        "startColumns": "4",
+                        "startOffsets": "16220",
+                        "endLines": "237",
+                        "endColumns": "12",
+                        "endOffsets": "16747"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\Custom-Calendar-View-v1.0.aar\\bad9f525f627effda49c77f6f51eefd3\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "139",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "271"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "101",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "233"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\6f0ba70e5fa79979e83c27e299059f7f\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,8,14,20,26,32,38,39,43,47,48,52,56,57,61,66,71,76,78,80,81,82,136,191",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,474,899,1327,1753,2180,2605,2694,2940,3189,3290,3542,3797,3900,4153,4561,4981,5403,5510,5639,5710,5793,9818,13986",
+                        "endLines": "7,13,19,25,31,37,38,42,46,47,51,55,56,60,65,70,75,77,79,80,81,135,190,191",
+                        "endColumns": "12,12,12,12,12,12,88,12,12,100,12,12,102,12,12,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "469,894,1322,1748,2175,2600,2689,2935,3184,3285,3537,3792,3895,4148,4556,4976,5398,5505,5634,5705,5788,9813,13981,14072"
+                    },
+                    "to": {
+                        "startLines": "6,12,18,24,30,36,42,43,47,51,52,56,60,61,65,70,75,80,82,118,119,120,174,229",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "238,657,1082,1510,1936,2363,2788,2877,3123,3372,3473,3725,3980,4083,4336,4744,5164,5586,5693,7782,7853,7936,11961,16129",
+                        "endLines": "11,17,23,29,35,41,42,46,50,51,55,59,60,64,69,74,79,81,83,118,119,173,228,229",
+                        "endColumns": "12,12,12,12,12,12,88,12,12,100,12,12,102,12,12,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "652,1077,1505,1931,2358,2783,2872,3118,3367,3468,3720,3975,4078,4331,4739,5159,5581,5688,5817,7848,7931,11956,16124,16215"
+                    }
+                }
+            ]
+        }
+    ]
+}

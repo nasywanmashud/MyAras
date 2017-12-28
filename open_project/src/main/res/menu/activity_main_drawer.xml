@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_bacanota"
+            android:icon="@drawable/ic_books_stack_of_three"
+            android:title="Baca Nota" />
+
+        <item
+            android:id="@+id/nav_sertaimakmal"
+            android:icon="@drawable/ic_flask"
+            android:title="Sertai Makmal" />
+        <item
+            android:id="@+id/nav_kuiz"
+            android:icon="@drawable/ic_test_quiz"
+            android:title="Jawab Kuiz" />
+        <item
+            android:id="@+id/nav_tetapan"
+            android:icon="@drawable/ic_settings"
+            android:title="Tetapan" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/action_logout"
+                android:title="@string/action_logout"
+                android:icon="@drawable/ic_power_settings_new_black_24dp"/>
+        </menu>
+    </item>
+
+
+</menu>

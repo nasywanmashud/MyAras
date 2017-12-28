@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\13006a4f7047f7bb998745f1e97381dc32762f1a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15b0781303974421d0c2490e7188256f0fce27ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\bac0f94f7adb4bd991315d1ac998e0b1a89845f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9f3136349049f3afc0ca6d0c51d6bcb3e2d9dfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\3ed9266dabcae452a619dfde2796cd3e3d9f2af6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88c6386ad8356b89487b43bcaae4827b1abe999c">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5da023f4ce7fc4fc66ed862d7c69aa2edaff771e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\34c5eb52f68417e9d99df44e194b7a1856f17289\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e08e9c8ed4a880a1ab6f61183f958ff8d397192">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c70689a60bc4c1730f5007b27e5b9b4ebff92eab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_ed056cf491007105d54d8d8bd5fe559657696c95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\7bc4c232076c2e2fd6fdf7258c6ea613c29462b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c812ad0773ab307151802099a33575fa7bb270b">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8fbecc38814ce53e9ae8abc868a2e382654cc53d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\1f53293e6b16041b8d5ae7d87b13d8454fb33666\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0e3dbc0bc40861b7e63d1100ec44f6f7a4cb24b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\5ec9d9b97f3faad479866948762424ecd15fe2c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f4877a9f0a653e193bfb600379e4bfc8472be47">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c60cf7eab338458f1b0a543a7797870ddc0db16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\7feaaf8a2a0a054e240c60f1aa9f9c9a67990eab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7193bcdc112ed32d1237802e8fa16295c8817b59">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e309f6ed339514357c6e5f198dc6f68e1851779\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\e99bf7b64acdbb7281d17f1a3c5792f10d603445\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddc2c5613bd096275fb5bfaefd0a4c5a06366b1b">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ecf1f1735d6d4175e7551062f0b54f621f4cc74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\ecef19040ea4c9763253e2b6ebe270a6659241e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d04527afd5fe0233f0a628ea9fb7a6fb7fb014c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-1.9.0_2e57648893961a9f678bea1ec7bf743bb015de11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\be38be5cffe9a3e8be35154fd4cdada9c1edd8d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b81c788c5f175f94ddaac2f65e5d1726371e0963">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3dfb9567fa4dd7d76febe2b10933183437c6a55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\d17f48a881d97ae8424a9585aa5eb039a550b64c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85743fa2a3bbe075ccbc71c9bd6ba42215de8d86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\4e71695f2c0825baaeb2e875bd13c4667450ca4f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a6fd228a41006d304f4ea938d6e1b34dcc7f305\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.9\75a739e59d7ede2f7f425f369955bdd1c2ac122b\dagger-2.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75a739e59d7ede2f7f425f369955bdd1c2ac122b">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.9_55d069a84b9ec17592ba423370eb4109657278a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_7dcc3ac4a30f386c51d9582e4504072021db0ad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\dcfda15002e3f2f7f0227b8e6569a5127306da4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7ebb0c7fb9f18134c02f52f8e38ebea2e53de13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\ff1da1cb3ca1c1c6cc3784cdccd1db831ff95ee6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e88a9ed27f98f8c0701d03d5553ce6111ca34a5b">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2939b3a71374cecbc4fee367884f89c0be73654d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\4483b22a30a055fa6cf0b55128e03331eb5a0eb7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32b82c37a8c4e99b08bf60764c20e9660f52b1ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\eedd9d74b05b68f58a301b109f951a4b13541c66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd1da81bab446923f39ec2f4bcf21ad7eeeb7806">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ce010d8fd135d4fead4fbc505232871d6226762\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.mobsandgeeks\android-saripaar\2.0.3\abd8da523222180f9531768c62509edf6cd9b02e\android-saripaar-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abd8da523222180f9531768c62509edf6cd9b02e">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\android-saripaar-2.0.3_9a89220ef42faa23bee6fea2cc17cded09ff48c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\356e7256d39c1c0f0f50ea6ab47e393cf12b9962\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2fa3b94600f9f0cf3f9f988448d931b4481e4c34">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4c12e221f1d27cc45dcd4c1fe011cb1a3c1e04c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\61bb100c49c0c675d56bc1802436b37209cd34de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30f7cd7e027f83ac87c1cdead8b816a407d9405c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\2925e93bf980ad49c7af60029032e145ea987cfb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca99056e644da7a59273fed25fbdca7c789e27d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.5\7941cd2c2c8ec006800d75c35f8a9dacf892ab93\otto-1.3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\otto-1.3.5_a33d6b184a7cb98d1e31eb492b68bd567e3505fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\858a41d653256d450700036794ae8d3303b2662d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c7d9f294a6bce06b60e4221c13e2e51ff1cd755">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10ed79581feaa9b2f49222f2692fee18edb11b13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.2-5\508b8b59843653756aeed058a3a421afa0657bcb\kotlin-stdlib-1.1.2-5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="508b8b59843653756aeed058a3a421afa0657bcb">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.1.2-5_52c4f7a1c2a19c8766d2320d7196274eb3515bba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_d6ccd51dfd1448b8c35f9f437887099c5391aeaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\ea414f86f6b750ea32053826f9a2694d047933c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5094eccf53998e9bcacfb85f80e7607b39b093fd">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0bdf4d27a116e45500f1104209dab4b36c0f57a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\546705cb00db8b519eb919d5a43d87daee77ebf3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c8243677105d9c78cfbf553b55e256b3d4bea39">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c8ec8c49800041dcf860e9c6052ef839ff8c58b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.2-5\6617f5ad8c76e5141fff9da5b8975081cad24ccf\kotlin-stdlib-jre7-1.1.2-5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6617f5ad8c76e5141fff9da5b8975081cad24ccf">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-jre7-1.1.2-5_edc893b6084620530d02b6f1de43c281bb1dfd35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\c1c7d32fe0faeb1af581d23e61c25c77aade93d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e84b30031d4bab89a2b5c45af4eb9213828524dd">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_81fb057f51f70c2a2f1a425f148551b4d05e8976\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\5249f5be47873623ffde4703db30b58d3d3d7200\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="852f2169586d14bd236870f62d54d5063f2124c8">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e3891c7608a1538b532b8ed7915ad90cde2c763\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_57499916d6e2ad7e501556c780ea05e9adb2962d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\a61471a8a00b38242dfe5bcbbb2f05eb4561006f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc8e3e3b486160c2382f499319b1c70adbf32575">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_417ff0b10ef51574f451ce93f397739e8ab37b90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\886a61098bf341c8410cd4da483fb43a3774a9a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="823bcb877cb90eb4ecbbc050d822ff5d84bb2db2">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3351f05166978e8bd4246058d1de893e050a0899\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\ed47e5255d435848669bee18087434444a01b6f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f699c4afb0c6bb2ec67f4fefaf8da639a4e1cd86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\e4a98b9fb5bf395d0cd45475de251f9e14467522\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d371b60b91abb6c68a72ff1b7ca5b4141cdbcf7">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d3ea893b39c9dc03d882954bf14314a52655a6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\80ab544b952dedc8dcae3c1d604f8f775031352e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3c7e8ff9f476d0d93ee7b046fbe8037a2b822c0">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f92969b1795e203aa97a7840c1bf8a38ac8f56cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.koushikdutta.async\androidasync\2.1.3\52aed89a155265a48984ecc06aa8dec12674edad\androidasync-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="52aed89a155265a48984ecc06aa8dec12674edad">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\androidasync-2.1.3_8013a58a3517d2702a61e8a6969ce6577c47d8fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\187bd866eb8fe5dc15873b0dbce8f2d517371a65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11a65cf2b30c192b38a881d626fa771a78a2293d">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afc6aba5346e61cd012ce92501c00ff0104fa804\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\7feaaf8a2a0a054e240c60f1aa9f9c9a67990eab\output\jars\libs\qrg_lib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30f62bd789d1da19d3eb9afa2b88969e28c66a77">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\qrg_lib_9a99da709103b045514282fccda4b34e61480ee8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\df0067b2aa48f6cda00af83832fae84595e756ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b95772071e9d5c55f6828d770807a99b4ca0d6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\40f62cf4d9557a9c73c00e664756d96902783609\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42de49332ce206689253b43f932f11c880e701b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\edfe6ffb9c1113ea7fd112786bb64f5e4fcb84d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e37c961ff0a2399c3e74bdefda6598a80387a9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\c65fa5c02335b3f8e020bf01e312dfe5b3ff579b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fea30cb1bec0f8856278753a53db087d52ea6c45">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a144009ec617aeae094c61d6bef23868ca5b439\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\38a30635865fe4fb2b3ab2a9b2cc676f51fd9b9a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61eee4323302061a964186173d838aab451fd429\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\9fcdbc0cf7894f4a3a40d1c5bcec9e59e698954f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbaffbfc2a42fce3718dc9f52182810ad332b0ec">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4eaa6c361c8af84d635b1c52a0855bcc3571cb47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\2c49d2fe64d491273f85516fa121f06271a98e12\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85ccb558dc8258ecf4f0a19e97a3114ec2c64cb4">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4974a7df31eec3ebd35cb953e7d5f6f112edb6e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.2.0\c0b52915a48fa91b1b94a28d4a2997bac5f524df\okio-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.2.0_c0c4ba741bbf7b930f430515f7aa0626675e3fb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.koushikdutta.ion\ion\2.1.3\659c4d0a26ab5d857db1440199cef6dd42b4428\ion-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0659c4d0a26ab5d857db1440199cef6dd42b4428">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\ion-2.1.3_83a7c20131d0747695cf72395fc55bede079c192\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Documents\GitHub\intra_metech\open_project\libs\gcm.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\2\gcm_ea0beb5bb69659ca5d3c2eec3d7e9a5549b5820e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\5cd91eaf27923827f35abf5a06a5c9c45e1fa303\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="263c1c941f603469ecbaf8745f7b2d18ae85c5c0">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10e0bd4290ca5ba7f552641387139972cc136669\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\57598cb8435121651d788aba790ba3a1c8deb7ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b81ceb2eb8f57ecbf0bbb89cd9a0562b668f5b3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\a4a74370bd420c359f7ba65473541e8e5e0baf8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fab6e20f9f833aafb541d23cf3325b9c6535868\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\217a74b6b7fbc971dbcef8a5ee555ed102a0696c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae754614a9f77b9afbc83483f82b7accac52703d">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f76c17e9b2832192b69c60c876a6c8536eb2575b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\4c5447d746d0c8aacd6211cce4ffed1358c30ff2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd787783d1d06fdda5a41fda4ad6af4475f0cb76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.2.0_d78c76f70216fffdedcb3f14979be8289c6f8c07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\a371915174d9bbd42b7848abf4c4cc1e7d01bb55\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fddb2a4a64be9bc99464e2786825e5cf2cd0cc66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\1ca219963d7cf87457014f6fe541f465b80f1a07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="439f1fa08fbc88d31ffdb11d80a13211689da6aa">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bdae52b080cd8360bf368fa3c1f5857f79acef2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_56487dcc601537ec955eea625d9774ba24b2cff3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\02fbd9481b18499d59285bd7d42bf607fe56bbed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2fc859b7abb78d29169f6a582b45cbe1f3f1a4cc">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f462da93839b89c577ed49b9671a46f062d16597\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\6e14b73812cb4d2fd442d2ef2beaf6790fc376e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="667c7c266ee94f433de491ca8fd5a2090d152ca5">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57db652077e21daca4a4c5a55c4aff5eb10103a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\2c839ca08e4e5d4f7f48fe8f11517fc7445ccf7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a976fc83df9f02c0ca7ef774b066b706081bb45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_5548ccada9aa534b99e5bae3d17100e81aae0ecf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\dc3eac3ec5f5cd8176385cc0328bf3352f266f61\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4747fb10a7d8577c5df0044df302f2cbfc437aa7">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31ccee364f82bf4481b81df05079295989537b64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-13.0_6e577c3461efc2ae71d0b3656471439c535bef46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_691f4d9bd6f2e1ccec101a25fba786365238035f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\80155eeb8fc1c56e77a8f73c5b21e1d9700e7e8e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5660e4bf78904137e90e62a5d4cc2e987258f02c">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b2d85a212ecdcae629a74d3d0ee158d0f178980\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\edac3c094b7c4de711ec20c95d28edd0cc4f7ea9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2531394af2a992f6192726b9b338a229b493c01">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e786af315bea90f0e44d1c399ec5e855cd27a8af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\407468bceed83e376c316665f1660c3ebbb2f394\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18263d261af5079d7a08d3279e2d098cd3a2f69e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\2ac7a5fd6d38b9a80e4d2ec9752d1e4baac93697\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="06e747980282ac9a96c036c43d07908d0f3347f6">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a8d0cffb0a85519f2686953d6fe7f77f0496c54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\71e73084bdedf04731fcc7111f64451481277679\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f4c8a5c979bf6c13d5e80cd93bcce8ca2517e03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Documents\GitHub\intra_metech\open_project\libs\android-query-full.0.26.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\2\android-query-full.0.26.8_1f6934371e678c90afd741aeb453fc6ac848d365\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\b14670a8dbb5be1ade8ffe7680e3db211acd2170\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b7100b3b064c4332205339389ca83a91753f0b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\2899021982a5670aac992cb463b6158b04a5e1d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0f33b5077e872a19671c564a5570fab51068c82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\4e77b2a364654c5592f52180ef41c764b1f58f5d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6f9fb0d2ea982d656d6dca785a9097659395874">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89edae231a5457fe23a47c4247435c70b1033f3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\32e2aeb14d2ef5fff30e85a1fb714cbfbfb5d99d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31038d80985f882946fc1787fd5428fbae6e99ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\f00d887197f302727042d590e8ff85f74e5654c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94f252546ac2f29a9481a4d93d771444d6b81669\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\bee22ed96f6556600348b6eb2e7224ebde1b4298\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcbd00e6bcd46d781bb15a9b2e0ea94fe2b5c9c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bfebdf1ee6f74766f013cd4d036702afaa83860">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8951924f2c3554f84a711b235dabab52309a192f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\ae859535492c97a08a502b2bc6bfbd16f308ff46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71e04678cec1b65207dae4e58586a8bc73cf345a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\dae4294adef920aa0086c2fc8c8d5d0f0a6a1dc5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_321d641ee87068cf75024c9de0dc616a3606207e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\0e5e452c8965e958fa29b96df273b8c88e702329\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1077a0208bec38334cb3b1a6270ed43501f2751\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\b466b7469b1fd68c48646368236dafd79aeb8442\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="844efef744581e604ea77683555271ebbd61d871">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17dec16fc661f5d72118a76fdba1b046aaeb9324\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\53c747acad2a169fa3f90f23d57442fce7272e9d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5255c35fbb85f3f4ca44cd0da9706652e4ceb9fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\3d738b29438f4f097350f3aa7afe0a58c17a5ab2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d12e7fcf84646e22b7a7e34d53603275e5b4fba0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\858314f59392a6ed0aa155dcb563cc7c820b77b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d8c5463a1a50691e2cf66cd7ce4751c8545b584">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a72e3233278f830b832885283535332a41c27bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\4f4c33a7aa8c827e39b9f1b0947b7d208e99bf14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ef3f5c5c9254e8878303d51e074c9a831e8076">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee6b50ef6ed55a9974bdb1a5834aa0d05bbcc38f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\4d925f526316d029b411adce809078ccdb5df5ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e34047cc6cc4814f66d8782b5b4836fad2db557\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_1dcb4b3cde0aaf377969481c47050a2b79f7d7a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\ef038dd210a056a87f053c31824fe7a8492f5a40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dad2e88938f55edcdeb97373f0a4909868307206">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eed74418f7be057505bf92880832a08e73c2aea5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\66a59724f1d9d4c4d847eeaef5180c9bcb929bf5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="49223278ec2ede1d05d00868c5ce3e077b4016f8">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4809649ac869c876d7a608dd5592f8b563bc7add\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\a671943c96cfdcbde740d729961ae30f1da5cbec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="876128c14268a173e9f1be29ed9ee637575f7e91">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01d7a5eb8cc833eae86c56cab53ce58d576111dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\0d9492bb07a1eb60a70f3d489fb5e6ebf5097718\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65c497023054381d0751ae3890510b5891710ce4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\80ab544b952dedc8dcae3c1d604f8f775031352e\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c07fb99b729345908dda75fadbbf882e300631ff">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f53b127c8439244dec16477264b5c68b149cf0d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Documents\GitHub\intra_metech\open_project\libs\realm-android-0.87.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="97d167507fcf75bc96d2123af0f3b1b5614ca3b7">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\2\realm-android-0.87.4_a8bafe679b5e69a19d54a81d2f3b26368914f8d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\b22602f817ad864f9f1fed5ff41ead02cbfffaa5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39dc3bd7d37d4f5955432097fead1f4dd789e16c">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c8aa339fcfe5371e9247a8d5f424dbf6178a693\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\879f60361c593c718f7b86841dc1fbb91636e5e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0babf50a182aee06c40ec332931f774c221164b">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4839013546fb3f89bc57deb39002b2ac3c0e04b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\cb2bf7c0fd5b81726d5435649d8d49257ce0e0c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5dca2d005eb667d9c238861a1417e8d696eb9824\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\72ab21ebc8a0d5ac677c197b064e78717dae7108\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="C:\Users\user\Documents\GitHub\intra_metech\open_project\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76fb85e6433afc04a2baca8a1ef10839c16a36f4\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,77 @@
+<resources>
+
+    <!--NO NEED123-->
+    <string name="app_name">MyAras</string>
+
+    <!-- TBD LOGIN PAGE -->
+    <string name="login_">Log in</string>
+    <string name="login_forgot_password">Forgot Password?</string>
+    <!--NO NEED-->
+    <!--NO NEED-->
+    <!--NO NEED-->
+    <!--Error Message-->
+    <string name="email_empty">Sila Masukkan Email</string>
+    <string name="email_invalid">Sila Masukkan format email yang betul</string>
+    <string name="nomatrik_empty">Sila Masukkan Nombor Matrik</string>
+    <string name="nomatrik_invalid">Sila Masukkan format Nombor Matrik yang betul</string>
+    <string name="username_empty">Sila Masukkan username</string>
+    <string name="fullname_empty">Sila Masukkan Nama Penuh</string>
+    <string name="password_empty">Please insert password</string>
+    <string name="password_rule">Must be at least 8 and maximum 16 characters</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open Navigation drawer</string>
+    <string name="navigation_drawer_close">Close Navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    //actionbar
+    <string name="app_profile">Profile</string>
+    <string name="app_timesheet">Timesheet</string>
+    <string name="app_lms">LMS</string>
+    <string name="logout">Logout</string>
+    <string name="app_logout">LOGOUT</string>
+    <string name="appmenuname">Intranet App</string>
+
+    <string name="navdemo">Navigation Drawer Full Demo </string>
+    <string name="profile">This is PROFILE Activity</string>
+    <string name="timesheet">This is TIMESHEET Activity</string>
+    <string name="lms">This is LMS Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_back">Logout</string>
+
+    <string name="leaveapp">Leave Approval</string>
+    <string name="title_activity_tab">Tab</string>
+    <string name="title_activity_tab_timesheet">TabTimesheet</string>
+
+    <string name="current_date">June, 2016</string>
+    <string name="add_event">ADD CALENDAR EVENT</string>
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="last_date">30</string>
+
+
+    <string-array name="first_spinner">
+        <item>Submitted</item>
+        <item>Approved</item>
+        <item>Rejected</item>
+    </string-array>
+    <string-array name="second_spinner">
+        <item>S</item>
+        <item>A</item>
+        <item>R</item>
+    </string-array>
+
+</resources>

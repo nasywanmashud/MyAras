@@ -1,0 +1,10 @@
+#Thu Dec 28 11:03:20 SGT 2017
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=E\:\\git\\makmalkawalproses\\open_project\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.1=E\:\\git\\makmalkawalproses\\open_project\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.0=E\:\\git\\makmalkawalproses\\open_project\\build\\intermediates\\transforms\\dexMerger\\debug\\0

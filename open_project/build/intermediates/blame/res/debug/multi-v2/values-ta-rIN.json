@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\git\\makmalkawalproses\\open_project\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta-rIN\\values-ta-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.5.0.aar\\ffd10b6987f61978274248cf8c60958e\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,166,275,393,477,589,721,842,957,1064,1172,1273",
+                        "endColumns": "60,108,117,83,111,131,120,114,106,107,100,101",
+                        "endOffsets": "161,270,388,472,584,716,837,952,1059,1167,1268,1370"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\git\\MyAras\\open_project\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta-rIN\\values-ta-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aban\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.5.0.aar\\ffd10b6987f61978274248cf8c60958e\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,166,275,393,477,589,721,842,957,1064,1172,1273",
+                        "endColumns": "60,108,117,83,111,131,120,114,106,107,100,101",
+                        "endOffsets": "161,270,388,472,584,716,837,952,1059,1167,1268,1370"
+                    }
+                }
+            ]
+        }
+    ]
+}
