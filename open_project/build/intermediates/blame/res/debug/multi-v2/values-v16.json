@@ -1,6 +1,78 @@
 {
     "logs": [
         {
+            "outputFile": "C:\\Users\\afiq baharom\\Documents\\GitHub\\MyAras\\open_project\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\afiq baharom\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.5.0.aar\\679c6f6b8608c113c4bf506538d979a9\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2,3,6,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,286,405",
+                        "endLines": "2,5,8,11",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "148,281,400,517"
+                    },
+                    "to": {
+                        "startLines": "4,15,18,21",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "193,706,839,958",
+                        "endLines": "4,17,20,23",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "286,834,953,1070"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\afiq baharom\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\d1fb2c96a5a7851f6fd0d852b38e3ae1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\afiq baharom\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.0.2.aar\\c6d1c18d457ec5c84e0224e2d80ba7ef\\res\\values-v16\\values.xml",
+                    "from": {
+                        "startLines": "6,10,14,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "208,430,563,682",
+                        "endLines": "6,12,16,20",
+                        "endColumns": "71,12,12,12",
+                        "endOffsets": "275,555,674,791"
+                    },
+                    "to": {
+                        "startLines": "3,9,12,24",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "121,464,592,1075",
+                        "endLines": "3,11,14,26",
+                        "endColumns": "71,12,12,12",
+                        "endOffsets": "188,587,701,1182"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\afiq baharom\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\d584a423afa6cceb729c03df83d7973f\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "459"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "E:\\git\\makmalkawalproses\\open_project\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {

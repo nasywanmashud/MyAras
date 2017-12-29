@@ -29,6 +29,21 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "C:\\Users\\afiq baharom\\Documents\\GitHub\\MyAras\\open_project\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn-rBD\\values-bn-rBD.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\afiq baharom\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.5.0.aar\\679c6f6b8608c113c4bf506538d979a9\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,166,281,402,491,614,744,869,969,1065,1163,1256",
+                        "endColumns": "60,114,120,88,122,129,124,99,95,97,92,99",
+                        "endOffsets": "161,276,397,486,609,739,864,964,1060,1158,1251,1351"
+                    }
+                }
+            ]
         }
     ]
 }

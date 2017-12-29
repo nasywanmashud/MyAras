@@ -192,7 +192,7 @@ public class LoginFragment extends BaseFragment implements Validator.ValidationL
 
             //
                 pref.setLoginStatus("true");
-
+//                pref.setUsername(obj.getUsername());
 
             String stringObject = new Gson().toJson(obj);
             pref.setUsername(stringObject);

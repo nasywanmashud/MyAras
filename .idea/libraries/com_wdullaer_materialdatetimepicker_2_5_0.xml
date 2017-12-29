@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.wdullaer:materialdatetimepicker-2.5.0">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-2.5.0.aar/ffd10b6987f61978274248cf8c60958e/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-2.5.0.aar/ffd10b6987f61978274248cf8c60958e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-2.5.0.aar/679c6f6b8608c113c4bf506538d979a9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-2.5.0.aar/679c6f6b8608c113c4bf506538d979a9/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

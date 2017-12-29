@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "C:\\Users\\afiq baharom\\Documents\\GitHub\\MyAras\\open_project\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ms-rMY\\values-ms-rMY.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\afiq baharom\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.5.0.aar\\679c6f6b8608c113c4bf506538d979a9\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,166,268,383,465,578,696,813,908,994,1084,1171",
+                        "endColumns": "60,101,114,81,112,117,116,94,85,89,86,100",
+                        "endOffsets": "161,263,378,460,573,691,808,903,989,1079,1166,1267"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "E:\\git\\makmalkawalproses\\open_project\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ms-rMY\\values-ms-rMY.xml",
             "map": [
                 {

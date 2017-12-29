@@ -16,6 +16,21 @@
             ]
         },
         {
+            "outputFile": "C:\\Users\\afiq baharom\\Documents\\GitHub\\MyAras\\open_project\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w560dp-land-v13\\values-w560dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\afiq baharom\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.5.0.aar\\679c6f6b8608c113c4bf506538d979a9\\res\\values-w560dp-land-v13\\values-w560dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,120,174",
+                        "endColumns": "64,53,50",
+                        "endOffsets": "115,169,220"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "E:\\git\\MyAras\\open_project\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w560dp-land-v13\\values-w560dp-land-v13.xml",
             "map": [
                 {

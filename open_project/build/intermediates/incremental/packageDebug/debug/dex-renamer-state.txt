@@ -1,10 +1,10 @@
-#Thu Dec 28 14:21:23 SGT 2017
+#Sat Dec 30 02:32:51 SGT 2017
 path.2=classes2.dex
 path.1=classes.dex
 path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=E\:\\git\\MyAras\\open_project\\build\\intermediates\\transforms\\dexMerger\\debug\\1
-base.1=E\:\\git\\MyAras\\open_project\\build\\intermediates\\transforms\\dexMerger\\debug\\1
-base.0=E\:\\git\\MyAras\\open_project\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+base.2=C\:\\Users\\afiq baharom\\Documents\\GitHub\\MyAras\\open_project\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.1=C\:\\Users\\afiq baharom\\Documents\\GitHub\\MyAras\\open_project\\build\\intermediates\\transforms\\dexMerger\\debug\\20
+base.0=C\:\\Users\\afiq baharom\\Documents\\GitHub\\MyAras\\open_project\\build\\intermediates\\transforms\\dexMerger\\debug\\1

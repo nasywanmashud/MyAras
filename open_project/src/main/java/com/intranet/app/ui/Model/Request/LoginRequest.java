@@ -7,6 +7,7 @@ public class LoginRequest {
 
     /*Local Data Send To Server*/
     String no_matrik;
+    String password;
 
     public String getNo_matrik() {
         return no_matrik;
@@ -25,7 +26,6 @@ public class LoginRequest {
         this.password = password;
     }
 
-    String password;
     //String mobile;
 
 

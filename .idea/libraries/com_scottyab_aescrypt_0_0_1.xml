@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.scottyab:aescrypt-0.0.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aescrypt-0.0.1.aar/e396dbf0a93b2c49c5ae4ce9ff22edcb/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aescrypt-0.0.1.aar/e396dbf0a93b2c49c5ae4ce9ff22edcb/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aescrypt-0.0.1.aar/6e595fca02fc8f27f80416b9255d156e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aescrypt-0.0.1.aar/6e595fca02fc8f27f80416b9255d156e/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

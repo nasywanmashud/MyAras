@@ -29,19 +29,19 @@ public final class R {
         public static final int scv_touch_padding = 0x7f040273;
     }
     public static final class id {
-        public static final int circle = 0x7f090047;
-        public static final int circle_square = 0x7f090048;
-        public static final int custom = 0x7f090064;
-        public static final int fit_image = 0x7f090094;
-        public static final int free = 0x7f090098;
-        public static final int not_show = 0x7f0900f5;
-        public static final int ratio_16_9 = 0x7f09010c;
-        public static final int ratio_3_4 = 0x7f09010d;
-        public static final int ratio_4_3 = 0x7f09010e;
-        public static final int ratio_9_16 = 0x7f09010f;
-        public static final int show_always = 0x7f090136;
-        public static final int show_on_touch = 0x7f090137;
-        public static final int square = 0x7f090140;
+        public static final int circle = 0x7f09004a;
+        public static final int circle_square = 0x7f09004b;
+        public static final int custom = 0x7f090067;
+        public static final int fit_image = 0x7f090097;
+        public static final int free = 0x7f09009b;
+        public static final int not_show = 0x7f0900f8;
+        public static final int ratio_16_9 = 0x7f09010f;
+        public static final int ratio_3_4 = 0x7f090110;
+        public static final int ratio_4_3 = 0x7f090111;
+        public static final int ratio_9_16 = 0x7f090112;
+        public static final int show_always = 0x7f090139;
+        public static final int show_on_touch = 0x7f09013a;
+        public static final int square = 0x7f090143;
     }
     public static final class styleable {
         public static final int[] scv_CropImageView = { 0x7f040261, 0x7f040262, 0x7f040263, 0x7f040264, 0x7f040265, 0x7f040266, 0x7f040267, 0x7f040268, 0x7f040269, 0x7f04026a, 0x7f04026b, 0x7f04026c, 0x7f04026d, 0x7f04026e, 0x7f04026f, 0x7f040270, 0x7f040271, 0x7f040272, 0x7f040273 };

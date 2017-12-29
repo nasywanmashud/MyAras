@@ -26,11 +26,11 @@ public final class R {
         public static final int spot = 0x7f080101;
     }
     public static final class id {
-        public static final int progress = 0x7f090105;
-        public static final int title = 0x7f09015e;
+        public static final int progress = 0x7f090108;
+        public static final int title = 0x7f090161;
     }
     public static final class layout {
-        public static final int dialog = 0x7f0c0042;
+        public static final int dialog = 0x7f0c0043;
     }
     public static final class style {
         public static final int SpotsDialogDefault = 0x7f110113;

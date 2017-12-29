@@ -16,6 +16,21 @@
             ]
         },
         {
+            "outputFile": "C:\\Users\\afiq baharom\\Documents\\GitHub\\MyAras\\open_project\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ka-rGE\\values-ka-rGE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\afiq baharom\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.5.0.aar\\679c6f6b8608c113c4bf506538d979a9\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,167,272,384,467,579,698,811,907,999,1092,1180",
+                        "endColumns": "61,104,111,82,111,118,112,95,91,92,87,95",
+                        "endOffsets": "162,267,379,462,574,693,806,902,994,1087,1175,1271"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "E:\\git\\MyAras\\open_project\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ka-rGE\\values-ka-rGE.xml",
             "map": [
                 {

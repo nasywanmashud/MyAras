@@ -19,6 +19,7 @@ import com.intranet.app.application.MainApplication;
 import com.intranet.app.base.BaseFragment;
 
 import com.intranet.app.ui.Activity.Login.LoginActivity;
+import com.intranet.app.ui.Activity.Makmal.MakmalActivity;
 import com.intranet.app.ui.Activity.Nota.NotaActivity;
 import com.intranet.app.ui.Model.Receive.LoginReceive;
 import com.intranet.app.ui.Model.Receive.NotaReceive;
@@ -56,6 +57,9 @@ public class HomePageFragment extends BaseFragment  {
 
     @Bind(R.id.username)
     TextView username;
+
+    @Bind(R.id.makmal)
+    Button btnmakmal;
 
     private SharedPrefManager pref;
 
@@ -98,6 +102,10 @@ public class HomePageFragment extends BaseFragment  {
 //            }
 //        });
 
+//        HashMap<String, String> username1 = pref.getUsername();
+//        final String username = username1.get(SharedPrefManager.USERNAME);
+//        username.
+
         HashMap<String, String> stringObject = pref.getUsername();
         final String sobject = stringObject.get(SharedPrefManager.USERNAME);
 
@@ -106,6 +114,7 @@ public class HomePageFragment extends BaseFragment  {
         Log.e("test" , obj.getUsername());
 
         username.setText(obj.getUsername());
+//        username.setText(sobject);
 
         pref = new SharedPrefManager(getActivity());
 
@@ -116,8 +125,20 @@ public class HomePageFragment extends BaseFragment  {
             }
         });
 
+        btnmakmal.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent caomdandygdisayangi = new Intent(getActivity(), MakmalActivity.class);
+                startActivity(caomdandygdisayangi);
+
+            }
+        });
+
+
+
         return view;
     }
+
 
     public void notarequest(){
         //requestapi

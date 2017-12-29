@@ -9,6 +9,17 @@ import java.util.HashMap;
 
 public class SharedPrefManager {
     private static final String PREF_NAME = "AndroidHivePref";
+
+
+    public static final String CAOM = "CAOM";
+
+
+
+
+
+
+
+
     public static final String SIGNATURE = "SIGNATURE";
     public static final String SELECTED = "SELECTED";
     public static final String USER_EMAIL = "USER_EMAIL";
@@ -789,6 +800,14 @@ public class SharedPrefManager {
         return init;
     }
 
+    /*Return Signature Value*/
+    public HashMap<String, String> getcaom() {
+        HashMap<String, String> init = new HashMap<String, String>();
+        init.put(CAOM, _sharedPrefs.getString(CAOM, null));
+        return init;
+    }
+
+
     /*Return Selected Value*/
     public HashMap<String, String> getSelectedPopupSelection() {
         HashMap<String, String> init = new HashMap<String, String>();
@@ -1441,6 +1460,12 @@ public class SharedPrefManager {
     /*Set Signature Value*/
     public void setSignatureToLocalStorage(String signature) {
         _prefsEditor.putString(SIGNATURE, signature);
+        _prefsEditor.apply();
+    }
+
+    /*Set Signature Value*/
+    public void setcaom(String signature) {
+        _prefsEditor.putString(CAOM, signature);
         _prefsEditor.apply();
     }
 

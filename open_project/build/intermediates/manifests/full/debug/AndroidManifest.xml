@@ -115,6 +115,9 @@
         <activity android:name="com.intranet.app.ui.Activity.HomePage.HomePageActivity" />
         <activity android:name="com.intranet.app.ui.Activity.Daftar.DaftarActivity" />
         <activity android:name="com.intranet.app.ui.Activity.DetailNota.DetailNotaActivity" />
+        <activity
+            android:name="com.intranet.app.ui.Activity.Makmal.MakmalActivity"
+            android:screenOrientation="sensorLandscape" />
 
         <!--
          FirebaseMessagingService performs security checks at runtime,

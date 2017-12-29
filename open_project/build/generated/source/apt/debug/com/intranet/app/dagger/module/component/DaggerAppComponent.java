@@ -22,6 +22,8 @@ import com.intranet.app.ui.Activity.HomePage.HomePageFragment;
 import com.intranet.app.ui.Activity.HomePage.HomePageFragment_MembersInjector;
 import com.intranet.app.ui.Activity.Login.LoginFragment;
 import com.intranet.app.ui.Activity.Login.LoginFragment_MembersInjector;
+import com.intranet.app.ui.Activity.Makmal.MakmalFragment;
+import com.intranet.app.ui.Activity.Makmal.MakmalFragment_MembersInjector;
 import com.intranet.app.ui.Activity.Nota.NotaFragment;
 import com.intranet.app.ui.Activity.Nota.NotaFragment_MembersInjector;
 import com.intranet.app.ui.Presenter.Presenter;
@@ -67,6 +69,8 @@ public final class DaggerAppComponent implements AppComponent {
   private MembersInjector<DaftarFragment> daftarFragmentMembersInjector;
 
   private MembersInjector<DetailNotaFragment> detailNotaFragmentMembersInjector;
+
+  private MembersInjector<MakmalFragment> makmalFragmentMembersInjector;
 
   private DaggerAppComponent(Builder builder) {
     assert builder != null;
@@ -126,6 +130,9 @@ public final class DaggerAppComponent implements AppComponent {
     this.detailNotaFragmentMembersInjector =
         DetailNotaFragment_MembersInjector.create(
             provideLoginPresenterProvider, provideBusProvider);
+
+    this.makmalFragmentMembersInjector =
+        MakmalFragment_MembersInjector.create(provideLoginPresenterProvider, provideBusProvider);
   }
 
   @Override
@@ -171,6 +178,11 @@ public final class DaggerAppComponent implements AppComponent {
   @Override
   public void inject(DetailNotaFragment detailNotaFragment) {
     detailNotaFragmentMembersInjector.injectMembers(detailNotaFragment);
+  }
+
+  @Override
+  public void inject(MakmalFragment makmalFragment) {
+    makmalFragmentMembersInjector.injectMembers(makmalFragment);
   }
 
   public static final class Builder {

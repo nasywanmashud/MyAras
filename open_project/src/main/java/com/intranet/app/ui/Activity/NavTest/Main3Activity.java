@@ -189,7 +189,7 @@ public class Main3Activity extends MainFragmentActivity implements NavigationVie
         else if (id == R.id.nav_bacanota) {
 //            Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar100);
 //            toolbar.setVisibility(View.GONE);
-//            NotaFragment fragment = new NotaFragment();
+//            MakmalFragment fragment = new MakmalFragment();
 //            android.support.v4.app.FragmentTransaction fragmentTransaction =
 //                    getSupportFragmentManager().beginTransaction();
 //            fragmentTransaction.replace(R.id.frame, fragment);

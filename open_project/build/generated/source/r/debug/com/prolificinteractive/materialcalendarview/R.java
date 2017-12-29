@@ -36,24 +36,24 @@ public final class R {
     }
     public static final class id {
         public static final int all = 0x7f09002c;
-        public static final int decorated_disabled = 0x7f090074;
-        public static final int defaults = 0x7f090076;
-        public static final int friday = 0x7f090099;
-        public static final int horizontal = 0x7f09009e;
-        public static final int match_parent = 0x7f0900cb;
-        public static final int mcv_pager = 0x7f0900cd;
-        public static final int monday = 0x7f0900e4;
-        public static final int month = 0x7f0900e5;
-        public static final int none = 0x7f0900f3;
-        public static final int other_months = 0x7f0900fd;
-        public static final int out_of_range = 0x7f0900fe;
-        public static final int saturday = 0x7f090118;
-        public static final int sunday = 0x7f09014b;
-        public static final int thursday = 0x7f090157;
-        public static final int tuesday = 0x7f090169;
-        public static final int vertical = 0x7f090175;
-        public static final int wednesday = 0x7f090178;
-        public static final int week = 0x7f090179;
+        public static final int decorated_disabled = 0x7f090077;
+        public static final int defaults = 0x7f090079;
+        public static final int friday = 0x7f09009c;
+        public static final int horizontal = 0x7f0900a1;
+        public static final int match_parent = 0x7f0900ce;
+        public static final int mcv_pager = 0x7f0900d0;
+        public static final int monday = 0x7f0900e7;
+        public static final int month = 0x7f0900e8;
+        public static final int none = 0x7f0900f6;
+        public static final int other_months = 0x7f090100;
+        public static final int out_of_range = 0x7f090101;
+        public static final int saturday = 0x7f09011b;
+        public static final int sunday = 0x7f09014e;
+        public static final int thursday = 0x7f09015a;
+        public static final int tuesday = 0x7f09016c;
+        public static final int vertical = 0x7f090178;
+        public static final int wednesday = 0x7f09017b;
+        public static final int week = 0x7f09017c;
     }
     public static final class string {
         public static final int calendar = 0x7f10002c;

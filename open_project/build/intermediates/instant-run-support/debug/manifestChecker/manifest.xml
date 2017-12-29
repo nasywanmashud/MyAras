@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.intranet.app"
+    android:versionCode="1"
+    android:versionName="1.0.0" > <!-- master_2B -->
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="24" />
+
+    <uses-permission
+        android:name="android.permission.INTERNET"
+        android:protectionLevel="normal" />
+    <uses-permission
+        android:name="android.permission.ACCESS_NETWORK_STATE"
+        android:protectionLevel="normal" />
+    <uses-permission
+        android:name="android.permission.READ_PHONE_STATE"
+        android:protectionLevel="normal" />
+    <uses-permission
+        android:name="android.permission.ACCESS_WIFI_STATE"
+        android:protectionLevel="normal" />
+    <uses-permission
+        android:name="android.permission.CHANGE_WIFI_STATE"
+        android:protectionLevel="normal" />
+    <uses-permission
+        android:name="android.permission.CHANGE_NETWORK_STATE"
+        android:protectionLevel="normal" />
+    <uses-permission
+        android:name="android.permission.WAKE_LOCK"
+        android:protectionLevel="normal" />
+    <uses-permission
+        android:name="android.permission.VIBRATE"
+        android:protectionLevel="normal" />
+    <uses-permission
+        android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"
+        android:protectionLevel="normal" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <uses-feature
+        android:name="android.hardware.sensor.accelerometer"
+        android:protectionLevel="normal"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:protectionLevel="normal" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+
+    <uses-permission
+        android:name="android.permission.CAMERA"
+        android:protectionLevel="normal" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:protectionLevel="normal" />
+
+    <!-- GCM requires a Google account. -->
+    <uses-permission
+        android:name="android.permission.GET_ACCOUNTS"
+        android:protectionLevel="normal" />
+
+    <permission
+        android:name="andoid.permission.READ_EXTERNAL_STORAGE"
+        android:protectionLevel="normal" />
+    <permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:protectionLevel="normal" />
+    <permission
+        android:name="android.permission.CAMERA"
+        android:protectionLevel="normal" />
+
+    <!-- Creates a custom permission so only this app can receive its messages. -->
+    <permission
+        android:name="com.intranet.app.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <!-- This app has permission to register and receive data message. -->
+    <uses-permission
+        android:name="com.google.android.c2dm.permission.RECEIVE"
+        android:protectionLevel="signature" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="com.intranet.app.permission.C2D_MESSAGE" />
+
+    <application
+        android:name="com.intranet.app.application.MainApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:launchMode="singleTop"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/MyCustomTheme"
+        android:vmSafeMode="true" >
+        <activity
+            android:name="com.intranet.app.ui.Activity.SplashScreen.Welcomescreen"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.intranet.app.ui.Activity.Login.LoginActivity" />
+        <activity android:name="com.intranet.app.ui.Activity.NavTest.Main3Activity" />
+        <activity android:name="com.intranet.app.ui.Activity.Nota.NotaActivity" />
+        <activity android:name="com.intranet.app.ui.Activity.HomePage.HomePageActivity" />
+        <activity android:name="com.intranet.app.ui.Activity.Daftar.DaftarActivity" />
+        <activity android:name="com.intranet.app.ui.Activity.DetailNota.DetailNotaActivity" />
+        <activity
+            android:name="com.intranet.app.ui.Activity.Makmal.MakmalActivity"
+            android:screenOrientation="landscape" />
+
+        <!--
+         FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name="com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.SwipeTouchListenerTestActivity" />
+        <activity android:name="com.nhaarman.listviewanimations.itemmanipulation.dragdrop.DynamicListViewTestActivity" />
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <service
+            android:name="com.google.android.gms.tagmanager.TagManagerService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity
+            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+            <intent-filter>
+                <data android:scheme="tagmanager.c.com.intranet.app" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.intranet.app" />
+            </intent-filter>
+        </receiver>
+        <!--
+ Internal (not exported) receiver used by the app to start its own exported services
+             without risk of being spoofed.
+        -->
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+            android:exported="false" />
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.intranet.app.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.intranet.app.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

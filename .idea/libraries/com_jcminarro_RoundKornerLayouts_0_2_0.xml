@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.jcminarro:RoundKornerLayouts-0.2.0">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RoundKornerLayouts-0.2.0.aar/8152fe83490a12fb8f1e5286f2131b25/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RoundKornerLayouts-0.2.0.aar/8152fe83490a12fb8f1e5286f2131b25/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RoundKornerLayouts-0.2.0.aar/115e6edbd019eb216360966b1094b53e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/RoundKornerLayouts-0.2.0.aar/115e6edbd019eb216360966b1094b53e/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

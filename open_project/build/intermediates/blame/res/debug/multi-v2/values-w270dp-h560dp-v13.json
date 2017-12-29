@@ -63,6 +63,38 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "C:\\Users\\afiq baharom\\Documents\\GitHub\\MyAras\\open_project\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w270dp-h560dp-v13\\values-w270dp-h560dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\afiq baharom\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.5.0.aar\\679c6f6b8608c113c4bf506538d979a9\\res\\values-w270dp-h560dp-v13\\values-w270dp-h560dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,124,184,242,303",
+                        "endColumns": "68,59,57,60,59",
+                        "endOffsets": "119,179,237,298,358"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\afiq baharom\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.0.2.aar\\c6d1c18d457ec5c84e0224e2d80ba7ef\\res\\values-w270dp-h560dp\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "217,282,338,395",
+                        "endColumns": "63,54,55,54",
+                        "endOffsets": "276,332,389,445"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "363,427,482,538",
+                        "endColumns": "63,54,55,54",
+                        "endOffsets": "422,477,533,588"
+                    }
+                }
+            ]
         }
     ]
 }

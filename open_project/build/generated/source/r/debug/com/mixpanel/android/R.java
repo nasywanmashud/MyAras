@@ -103,40 +103,40 @@ public final class R {
         public static final int adjust_height = 0x7f090029;
         public static final int adjust_width = 0x7f09002a;
         public static final int auto = 0x7f090034;
-        public static final int com_mixpanel_android_activity_survey_id = 0x7f09004f;
-        public static final int com_mixpanel_android_button_exit = 0x7f090050;
-        public static final int com_mixpanel_android_button_exit_wrapper = 0x7f090051;
-        public static final int com_mixpanel_android_button_next = 0x7f090052;
-        public static final int com_mixpanel_android_button_previous = 0x7f090053;
-        public static final int com_mixpanel_android_image_close = 0x7f090054;
-        public static final int com_mixpanel_android_multiple_choice_answer_text = 0x7f090055;
-        public static final int com_mixpanel_android_notification_bottom_wrapper = 0x7f090056;
-        public static final int com_mixpanel_android_notification_button = 0x7f090057;
-        public static final int com_mixpanel_android_notification_gradient = 0x7f090058;
-        public static final int com_mixpanel_android_notification_image = 0x7f090059;
-        public static final int com_mixpanel_android_notification_second_button = 0x7f09005a;
-        public static final int com_mixpanel_android_notification_subtext = 0x7f09005b;
-        public static final int com_mixpanel_android_notification_title = 0x7f09005c;
-        public static final int com_mixpanel_android_progress_text = 0x7f09005d;
-        public static final int com_mixpanel_android_question_card_holder = 0x7f09005e;
-        public static final int dark = 0x7f090069;
-        public static final int icon_only = 0x7f0900a4;
-        public static final int light = 0x7f0900be;
-        public static final int none = 0x7f0900f3;
-        public static final int standard = 0x7f090145;
-        public static final int wide = 0x7f09017b;
+        public static final int com_mixpanel_android_activity_survey_id = 0x7f090052;
+        public static final int com_mixpanel_android_button_exit = 0x7f090053;
+        public static final int com_mixpanel_android_button_exit_wrapper = 0x7f090054;
+        public static final int com_mixpanel_android_button_next = 0x7f090055;
+        public static final int com_mixpanel_android_button_previous = 0x7f090056;
+        public static final int com_mixpanel_android_image_close = 0x7f090057;
+        public static final int com_mixpanel_android_multiple_choice_answer_text = 0x7f090058;
+        public static final int com_mixpanel_android_notification_bottom_wrapper = 0x7f090059;
+        public static final int com_mixpanel_android_notification_button = 0x7f09005a;
+        public static final int com_mixpanel_android_notification_gradient = 0x7f09005b;
+        public static final int com_mixpanel_android_notification_image = 0x7f09005c;
+        public static final int com_mixpanel_android_notification_second_button = 0x7f09005d;
+        public static final int com_mixpanel_android_notification_subtext = 0x7f09005e;
+        public static final int com_mixpanel_android_notification_title = 0x7f09005f;
+        public static final int com_mixpanel_android_progress_text = 0x7f090060;
+        public static final int com_mixpanel_android_question_card_holder = 0x7f090061;
+        public static final int dark = 0x7f09006c;
+        public static final int icon_only = 0x7f0900a7;
+        public static final int light = 0x7f0900c1;
+        public static final int none = 0x7f0900f6;
+        public static final int standard = 0x7f090148;
+        public static final int wide = 0x7f09017e;
     }
     public static final class integer {
         public static final int google_play_services_version = 0x7f0a000b;
     }
     public static final class layout {
-        public static final int com_mixpanel_android_activity_notification_full = 0x7f0c0023;
-        public static final int com_mixpanel_android_activity_notification_mini = 0x7f0c0024;
-        public static final int com_mixpanel_android_activity_survey = 0x7f0c0025;
-        public static final int com_mixpanel_android_first_choice_answer = 0x7f0c0026;
-        public static final int com_mixpanel_android_last_choice_answer = 0x7f0c0027;
-        public static final int com_mixpanel_android_middle_choice_answer = 0x7f0c0028;
-        public static final int com_mixpanel_android_question_card = 0x7f0c0029;
+        public static final int com_mixpanel_android_activity_notification_full = 0x7f0c0024;
+        public static final int com_mixpanel_android_activity_notification_mini = 0x7f0c0025;
+        public static final int com_mixpanel_android_activity_survey = 0x7f0c0026;
+        public static final int com_mixpanel_android_first_choice_answer = 0x7f0c0027;
+        public static final int com_mixpanel_android_last_choice_answer = 0x7f0c0028;
+        public static final int com_mixpanel_android_middle_choice_answer = 0x7f0c0029;
+        public static final int com_mixpanel_android_question_card = 0x7f0c002a;
     }
     public static final class string {
         public static final int com_mixpanel_android_close = 0x7f100030;

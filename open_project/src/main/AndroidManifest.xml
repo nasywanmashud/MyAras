@@ -110,6 +110,8 @@
         <activity android:name=".ui.Activity.HomePage.HomePageActivity" />
         <activity android:name=".ui.Activity.Daftar.DaftarActivity" />
         <activity android:name=".ui.Activity.DetailNota.DetailNotaActivity" />
+        <activity android:name=".ui.Activity.Makmal.MakmalActivity"/>
+
 
 
 

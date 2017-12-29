@@ -10,6 +10,7 @@ import com.intranet.app.ui.Activity.DetailNota.DetailNotaFragment;
 import com.intranet.app.ui.Activity.HomePage.HomePageFragment;
 import com.intranet.app.ui.Activity.Login.LoginFragment;
 
+import com.intranet.app.ui.Activity.Makmal.MakmalFragment;
 import com.intranet.app.ui.Activity.Nota.NotaFragment;
 import com.intranet.app.ui.Presenter.Presenter;
 import com.squareup.otto.Bus;
@@ -35,6 +36,7 @@ public interface AppComponent {
     void inject(NotaFragment notaFragment);
     void inject(DaftarFragment daftarFragment);
     void inject(DetailNotaFragment detailNotaFragment);
+    void inject(MakmalFragment makmalFragment);
 
 
 
